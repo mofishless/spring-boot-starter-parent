@@ -10,7 +10,7 @@
     </parent>
     <groupId>me.liliudong</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>3.5.13.01</version>
+    <version>3.5.13.20260329</version>
     <name>spring-boot-starter-parent</name>
     <description>Spring Boot 3.x Parent POM with common dependencies for enterprise development</description>
     <packaging>pom</packaging>
