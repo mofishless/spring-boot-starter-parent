@@ -10,7 +10,7 @@
     </parent>
     <groupId>me.liliudong</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>3.5.13.20260331</version>
+    <version>3.5.13.20260331.1</version>
     <name>spring-boot-starter-parent</name>
     <description>Spring Boot 3.x Parent POM with common dependencies for enterprise development</description>
     <packaging>pom</packaging>
@@ -62,7 +62,7 @@
 
     <properties>
         <java.version>21</java.version>
-        <hutool-all.version>5.8.38</hutool-all.version>
+        <hutool-all.version>5.8.40</hutool-all.version>
         <mybatis-flex.version>1.11.6</mybatis-flex.version>
         <redisson.version>4.3.0</redisson.version>
         <fastjson2.version>2.0.53</fastjson2.version>
